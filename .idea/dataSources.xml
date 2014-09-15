@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="892386525">
+    <data-source source="LOCAL" name="Rails TellHow: development" uuid="551657fd-9ffd-43bd-bf30-8718c983d8b1">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/TellHow_development</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>df9bdf93df9ddf9ddfdadfcfdfd8dfdadfc6dfcfdfd2</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails TellHow: test" uuid="5ce3b679-156a-41aa-b367-64711f94fe90">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/TellHow_test</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>df9bdf93df9ddf9ddfdadfcfdfd8dfdadfc6dfcfdfd2</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails TellHow: production" uuid="0723bd0c-c92b-47a5-84b6-9945ced06114">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/TellHow_production</jdbc-url>
+      <user-name>TellHow</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddffedfefdfe6dfe6dfe2dfe5dffddff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
